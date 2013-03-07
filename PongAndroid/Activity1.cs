@@ -9,6 +9,7 @@ using Android.OS;
 using Microsoft.Xna.Framework;
 using Pong;
 
+//Version 2
 namespace PongAndroid
 {
     [Activity(Label = "PongAndroid", MainLauncher = true, Icon = "@drawable/icon")]
